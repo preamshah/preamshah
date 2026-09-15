@@ -2,7 +2,7 @@
 Hi My name is Preamshah!<br>I'm cyber security engineer passionate about technology<br>and web development. With expertise in various programming languages<br>such as Python, C, C++, JavaScript, and Java,<br>I'm dedicated to crafting innovative solutions and advancing<br>the field of cybersecurity.<br>I diverse skill set and enthusiasm for tech drive<br> to continually explore and master new areas within the industry.
 
 
-## 🌐 Socials:
+## 🌐Connect with us:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thepreamsss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preamshah)
