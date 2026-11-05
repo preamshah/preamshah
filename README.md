@@ -9,7 +9,7 @@
 - 🌱 **Learning:** I’m currently learning **carimson**
 - 👯 **Collaboration:** I’m looking to collaborate on `dev.pream`
 - 🤝 **Assistance:** I’m looking for help with **powerfull coder**
-- 📝 **Portfolio:** [https://preamshah.com/](https://preamshah.com/)
+- 📝 **Portfolio:** [Preamshah.com](https://preamshah.com/)
 - 💬 **Discussions:** Ask me about **reacted**
 - 📫 **Contact:** How to reach me **info@preamshah.com**
 
