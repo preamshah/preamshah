@@ -5,7 +5,7 @@
 
 ## At a Glance
 
-- 🔭 **Current Project:** I’m currently working on **Nepal News Developmen**
+- 🔭 **Current Project:** I’m currently working on **Nepal News Development**
 - 🌱 **Learning:** I’m currently learning **carimson**
 - 👯 **Collaboration:** I’m looking to collaborate on `dev.pream`
 - 🤝 **Assistance:** I’m looking for help with **powerfull coder**
