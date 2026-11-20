@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="308" viewBox="0 0 1400 308" role="img"><defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#05101E"/><stop offset=".6" stop-color="#0B1B31"/><stop offset="1" stop-color="#07121F"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0 H0 V28" fill="none" stroke="#285272" stroke-opacity=".18"/></pattern></defs><rect width="1400" height="308" rx="20" fill="url(#b)"/><rect width="1400" height="308" rx="20" fill="url(#grid)"/><text x="35" y="46" fill="#7FCFEC" font-family="monospace" font-size="19" letter-spacing="2">SYSTEM DELIVERY PIPELINE</text><rect x="35" y="88" width="250" height="142" rx="16" fill="#0D2136" stroke="#38BDF8" stroke-opacity=".65" stroke-width="2"/>
+<rect x="55" y="107" width="48" height="5" rx="3" fill="#38BDF8"/>
+<text x="54" y="164" fill="#F0F6FF" font-family="Arial,sans-serif" font-size="23" font-weight="700">INTERFACE</text>
+<text x="54" y="202" fill="#87AFCB" font-family="monospace" font-size="14">HTML / CSS / UI</text><path d="M288 158 H308 l-7 -6 m7 6 l-7 6" fill="none" stroke="#4DB2E2" stroke-width="2"/><rect x="311" y="88" width="250" height="142" rx="16" fill="#0D2136" stroke="#65BCFE" stroke-opacity=".65" stroke-width="2"/>
+<rect x="331" y="107" width="48" height="5" rx="3" fill="#65BCFE"/>
+<text x="330" y="164" fill="#F0F6FF" font-family="Arial,sans-serif" font-size="23" font-weight="700">APPLICATION</text>
+<text x="330" y="202" fill="#87AFCB" font-family="monospace" font-size="14">PHP / JS / APIs</text><path d="M564 158 H584 l-7 -6 m7 6 l-7 6" fill="none" stroke="#4DB2E2" stroke-width="2"/><rect x="587" y="88" width="250" height="142" rx="16" fill="#0D2136" stroke="#98ADFF" stroke-opacity=".65" stroke-width="2"/>
+<rect x="607" y="107" width="48" height="5" rx="3" fill="#98ADFF"/>
+<text x="606" y="164" fill="#F0F6FF" font-family="Arial,sans-serif" font-size="23" font-weight="700">SECURITY</text>
+<text x="606" y="202" fill="#87AFCB" font-family="monospace" font-size="14">RBAC / VALIDATION</text><path d="M840 158 H860 l-7 -6 m7 6 l-7 6" fill="none" stroke="#4DB2E2" stroke-width="2"/><rect x="863" y="88" width="250" height="142" rx="16" fill="#0D2136" stroke="#6DE2D0" stroke-opacity=".65" stroke-width="2"/>
+<rect x="883" y="107" width="48" height="5" rx="3" fill="#6DE2D0"/>
+<text x="882" y="164" fill="#F0F6FF" font-family="Arial,sans-serif" font-size="23" font-weight="700">DATA</text>
+<text x="882" y="202" fill="#87AFCB" font-family="monospace" font-size="14">SQL / MYSQL</text><path d="M1116 158 H1136 l-7 -6 m7 6 l-7 6" fill="none" stroke="#4DB2E2" stroke-width="2"/><rect x="1139" y="88" width="250" height="142" rx="16" fill="#0D2136" stroke="#52C8F6" stroke-opacity=".65" stroke-width="2"/>
+<rect x="1159" y="107" width="48" height="5" rx="3" fill="#52C8F6"/>
+<text x="1158" y="164" fill="#F0F6FF" font-family="Arial,sans-serif" font-size="23" font-weight="700">DEPLOY</text>
+<text x="1158" y="202" fill="#87AFCB" font-family="monospace" font-size="14">CLOUDFLARE / WEB</text><path d="M35 268 H1364" stroke="#205070"/><text x="700" y="291" text-anchor="middle" fill="#6F9AB9" font-family="monospace" font-size="14" letter-spacing="2">PLAN  //  BUILD  //  SECURE  //  SHIP</text></svg>
