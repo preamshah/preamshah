@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="430" viewBox="0 0 960 430" role="img">
+ <defs><linearGradient id="base" x2="1" y2="1"><stop stop-color="#060E1B"/><stop offset=".7" stop-color="#112038"/><stop offset="1" stop-color="#080F1D"/></linearGradient><pattern id="net" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0 H0 V30" stroke="#4F6E95" stroke-opacity=".12" fill="none"/></pattern></defs>
+ <rect width="960" height="430" rx="20" fill="url(#base)"/><rect width="960" height="430" rx="20" fill="url(#net)"/>
+ <rect x="43" y="44" width="228" height="34" rx="17" fill="#10253D" stroke="#B8A0FF" stroke-opacity=".5"/>
+ <circle cx="63" cy="61" r="5" fill="#B8A0FF"/><text x="81" y="67" font-family="monospace" font-size="14" letter-spacing="1.4" fill="#D4E8FC">FEATURED PROJECT</text>
+ <text x="45" y="183" fill="#F0F5FF" font-family="Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="-1.5">ANX FASHION</text>
+ <rect x="47" y="208" width="81" height="5" rx="3" fill="#B8A0FF"/>
+ <text x="47" y="259" fill="#A5CBE7" font-family="monospace" font-size="20">LUXURY E-COMMERCE</text>
+ <text x="47" y="294" fill="#82A4BF" font-family="monospace" font-size="17">Commerce architecture · Modern UX</text>
+ <path d="M46 357 H550" stroke="#1F4562"/><text x="47" y="385" fill="#B8A0FF" font-family="monospace" font-size="15" letter-spacing="1">EXPLORE THE SYSTEM /&gt;</text>
+ 
+ <rect x="633" y="110" width="246" height="238" rx="15" fill="#0A1A2D" stroke="#B8A0FF" stroke-opacity=".6" stroke-width="3"/>
+ <rect x="658" y="139" width="199" height="142" rx="9" fill="#10243F"/><path d="M658 190 H857" stroke="#353C70" stroke-width="2"/><path d="M704 168 l-15 20 0 39 96 0 0-39 -15-20" fill="#594B94" stroke="#A9A6F5" stroke-width="2"/><path d="M728 177 v47" stroke="#E5DAFF" stroke-width="3"/><rect x="660" y="299" width="96" height="22" rx="10" fill="#5645A1"/><rect x="768" y="299" width="82" height="22" rx="10" fill="#253D5A"/>
+ 
+ <path d="M23 408 H938" stroke="#2C5F88" stroke-opacity=".5"/>
+ </svg>
