@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="430" viewBox="0 0 960 430" role="img">
+ <defs><linearGradient id="base" x2="1" y2="1"><stop stop-color="#060E1B"/><stop offset=".7" stop-color="#112038"/><stop offset="1" stop-color="#080F1D"/></linearGradient><pattern id="net" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0 H0 V30" stroke="#4F6E95" stroke-opacity=".12" fill="none"/></pattern></defs>
+ <rect width="960" height="430" rx="20" fill="url(#base)"/><rect width="960" height="430" rx="20" fill="url(#net)"/>
+ <rect x="43" y="44" width="228" height="34" rx="17" fill="#10253D" stroke="#30D5F2" stroke-opacity=".5"/>
+ <circle cx="63" cy="61" r="5" fill="#30D5F2"/><text x="81" y="67" font-family="monospace" font-size="14" letter-spacing="1.4" fill="#D4E8FC">FEATURED PROJECT</text>
+ <text x="45" y="183" fill="#F0F5FF" font-family="Arial,sans-serif" font-size="57" font-weight="700" letter-spacing="-1.5">SAPTARI POST</text>
+ <rect x="47" y="208" width="81" height="5" rx="3" fill="#30D5F2"/>
+ <text x="47" y="259" fill="#A5CBE7" font-family="monospace" font-size="20">NEWSROOM / EDITORIAL CMS</text>
+ <text x="47" y="294" fill="#82A4BF" font-family="monospace" font-size="17">Secure publishing workflows · SEO</text>
+ <path d="M46 357 H550" stroke="#1F4562"/><text x="47" y="385" fill="#30D5F2" font-family="monospace" font-size="15" letter-spacing="1">EXPLORE THE SYSTEM /&gt;</text>
+ 
+ <rect x="633" y="110" width="246" height="238" rx="15" fill="#0A1A2D" stroke="#30D5F2" stroke-opacity=".6" stroke-width="3"/>
+ <rect x="655" y="139" width="202" height="34" rx="5" fill="#19334D"/><rect x="655" y="190" width="95" height="65" rx="4" fill="#114C67"/><rect x="763" y="190" width="95" height="10" rx="4" fill="#35607E"/><rect x="763" y="213" width="76" height="8" rx="4" fill="#254C68"/><rect x="763" y="235" width="82" height="8" rx="4" fill="#254C68"/><path d="M655 275 H858 M655 294 H858 M655 313 H819" stroke="#2B5876" stroke-width="5"/><text x="678" y="164" fill="#D9F3FF" font-family="monospace" font-size="15" letter-spacing="2">NEWS / CMS</text>
+ 
+ <path d="M23 408 H938" stroke="#2C5F88" stroke-opacity=".5"/>
+ </svg>
