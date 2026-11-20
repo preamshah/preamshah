@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="150" viewBox="0 0 1400 150" role="img" aria-label="Engineering footer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050B16"/><stop offset="0.5" stop-color="#0A203D"/><stop offset="1" stop-color="#06111F"/></linearGradient><linearGradient id="line"><stop stop-color="#38BDF8" stop-opacity="0"/><stop offset="0.5" stop-color="#38BDF8"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient></defs>
+<rect width="1400" height="150" rx="18" fill="url(#bg)"/><path d="M38 31 H1362 M38 119 H1362" fill="none" stroke="#194765" opacity=".8"/>
+<path d="M38 76 H510 M890 76 H1362" stroke="url(#line)"/><circle cx="520" cy="76" r="5" fill="#38BDF8"/><circle cx="880" cy="76" r="5" fill="#38BDF8"/>
+<text x="700" y="65" text-anchor="middle" fill="#DDEBFA" font-size="20" letter-spacing="2.5" font-weight="700" font-family="Arial, sans-serif">BUILD WITH PURPOSE</text><text x="700" y="98" text-anchor="middle" fill="#6EBADC" font-size="15" letter-spacing="2" font-family="monospace">ENGINEER WITH PRECISION // KEEP EVOLVING</text></svg>
