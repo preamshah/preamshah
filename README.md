@@ -1,113 +1,168 @@
-<h1 align="center">Hi 👋, I'm Pream shah</h1>
-<p align="center"><code>&lt;Code Create Conquer&gt;</code></p>
+<!--
+  GitHub Profile README — Pream Shah
+  Profile repository: https://github.com/preamshah/preamshah
+  Adapted from the supplied resume; selected public career information only.
+-->
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:173B75,100:2563EB&height=230&section=header&text=PREAM%20SHAH&fontSize=56&fontAlignY=36&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"
+    width="100%"
+    alt="Pream Shah — Full-Stack Developer and Software Engineer"
+  />
+
+  <a href="https://github.com/preamshah">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3100&pause=1100&color=60A5FA&center=true&vCenter=true&width=800&height=60&lines=Building+secure%2C+scalable+web+experiences;Engineering+custom+CMS+%26+e-commerce+platforms;Turning+ideas+into+production-ready+products"
+      alt="Animated introduction: secure web experiences, content management systems, and e-commerce platforms"
+    />
+  </a>
+
+  <p>
+    <a href="https://preamshah.com/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/preamshah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/preamshah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:infopreamshah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <sub>Application architecture • Backend engineering • Responsive interfaces • Security • Performance • SEO</sub>
+</div>
 
 ---
 
-## At a Glance
+## 👨‍💻 About Me
 
-- 🔭 **Current Project:** I’m currently working on **Nepal News Development**
-- 🌱 **Learning:** I’m currently learning **carimson**
-- 👯 **Collaboration:** I’m looking to collaborate on `dev.pream`
-- 🤝 **Assistance:** I’m looking for help with **powerfull coder**
-- 📝 **Portfolio:** [Preamshah.com](https://preamshah.com/)
-- 💬 **Discussions:** Ask me about **reacted**
-- 📫 **Contact:** How to reach me **info@preamshah.com**
+I am a **Full-Stack Developer and Software Engineer** focused on building reliable, secure, and thoughtfully designed web applications. My work spans **backend architecture, responsive frontend development, database design, authentication, SEO, and production deployment**.
 
----
+As the **Founder & Lead Developer of [Saptari Post](https://saptaripost.com/)**, I develop and maintain a custom digital publishing platform, from editorial workflows and reader experiences to cloud infrastructure and search optimization. I also build e-commerce solutions, including **[ANX Fashion](https://anxfashion.com/)**.
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+```text
+> CURRENT FOCUS
+  Secure application architecture
+  Custom CMS and e-commerce engineering
+  Performance-conscious, SEO-ready web platforms
+  Clean user experiences and maintainable code
+```
 
-<h2>Connections</h2>
+## 🧰 Technical Arsenal
 
-<h3>Developer Communities</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,java,python,react,angular,nodejs,express,laravel&theme=dark&perline=10" alt="Programming languages, frameworks, and backend technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mysql,git,github,cloudflare,vscode,figma,postman&theme=dark&perline=11" alt="Frontend, database, DevOps, design, and development tools" />
+</div>
 
-<ul>
-  <li><a href="https://dev.to/dev.preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV Community" width="18" height="18" align="center" /> <strong>DEV Community</strong></a></li>
-  <li><a href="https://hashnode.com/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" width="18" height="18" align="center" /> <strong>Hashnode</strong></a></li>
-  <li><a href="https://stackoverflow.com/users/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="18" height="18" align="center" /> <strong>Stack Overflow</strong></a></li>
-  <li><a href="https://codepen.io/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="18" height="18" align="center" /> <strong>CodePen</strong></a></li>
-  <li><a href="https://codesandbox.com/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" width="18" height="18" align="center" /> <strong>CodeSandbox</strong></a></li>
-  <li><a href="https://discord.gg/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="18" height="18" align="center" /> <strong>Discord</strong></a></li>
-  <li><a href="https://kaggle.com/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="18" height="18" align="center" /> <strong>Kaggle</strong></a></li>
-</ul>
+<br />
 
-<h3>Competitive Programming</h3>
+| Discipline | Technologies & capabilities |
+|:--|:--|
+| **Languages** | PHP, JavaScript, TypeScript, Java, Python, SQL |
+| **Backend** | Core PHP, Laravel, Node.js, Express.js, REST APIs, MVC, authentication and authorization |
+| **Frontend** | React, Angular, HTML, CSS, Tailwind CSS, Bootstrap, Alpine.js, responsive UI |
+| **Databases** | MySQL, MariaDB, PDO, relational data modeling, SQL queries |
+| **Infrastructure** | Cloudflare, Hostinger, Apache, LiteSpeed, DNS, SSL/TLS, Git, GitHub |
+| **Developer tools** | VS Code, Postman, Chrome DevTools, IntelliJ IDEA, Eclipse, Maven |
+| **Design** | Figma, Adobe Photoshop, UI/UX design, graphic design |
 
-<ul>
-  <li><a href="https://www.leetcode.com/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="18" height="18" align="center" /> <strong>LeetCode</strong></a></li>
-  <li><a href="https://codeforces.com/profile/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="18" height="18" align="center" /> <strong>Codeforces</strong></a></li>
-  <li><a href="https://www.codechef.com/users/preamshah" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="18" height="18" align="center" /> <strong>CodeChef</strong></a></li>
-  <li><a href="https://www.hackerrank.com/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="18" height="18" align="center" /> <strong>HackerRank</strong></a></li>
-  <li><a href="https://www.hackerearth.com/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="18" height="18" align="center" /> <strong>HackerEarth</strong></a></li>
-  <li><a href="https://auth.geeksforgeeks.org/user/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="18" height="18" align="center" /> <strong>GeeksforGeeks</strong></a></li>
-  <li><a href="https://www.topcoder.com/members/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" width="18" height="18" align="center" /> <strong>Topcoder</strong></a></li>
-</ul>
+## 🚀 Featured Projects
 
-<h3>Design & Media</h3>
-
-<ul>
-  <li><a href="https://dribbble.com/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" width="18" height="18" align="center" /> <strong>Dribbble</strong></a></li>
-  <li><a href="https://www.behance.net/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" width="18" height="18" align="center" /> <strong>Behance</strong></a></li>
-  <li><a href="https://medium.com/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="18" height="18" align="center" /> <strong>Medium</strong></a></li>
-  <li><a href="https://www.youtube.com/c/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="18" height="18" align="center" /> <strong>YouTube</strong></a></li>
-</ul>
-
-<h3>Social & RSS</h3>
-
-<ul>
-  <li><a href="https://linkedin.com/in/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="18" height="18" align="center" /> <strong>LinkedIn</strong></a></li>
-  <li><a href="https://twitter.com/shahpream" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="18" height="18" align="center" /> <strong>Twitter</strong></a></li>
-  <li><a href="https://fb.com/thepreamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="18" height="18" align="center" /> <strong>Facebook</strong></a></li>
-  <li><a href="https://instagram.com/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="18" height="18" align="center" /> <strong>Instagram</strong></a></li>
-  <li><a href="/preamshah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS Feed" width="18" height="18" align="center" /> <strong>RSS Feed</strong></a></li>
-</ul>
-
-</td>
-<td valign="top" width="50%">
-
-<h2>Languages and Tools</h2>
-
-<h3>Programming & Web</h3>
-
-<ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="18" height="18" align="center" /> <strong>JavaScript</strong></a></li>
-  <li><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="18" height="18" align="center" /> <strong>Vue.js</strong></a></li>
-  <li><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="18" height="18" align="center" /> <strong>Python</strong></a></li>
-  <li><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="18" height="18" align="center" /> <strong>C#</strong></a></li>
-  <li><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="18" height="18" align="center" /> <strong>Swift</strong></a></li>
-</ul>
-
-<h3>Systems & Databases</h3>
-
-<ul>
-  <li><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="18" height="18" align="center" /> <strong>C</strong></a></li>
-  <li><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="18" height="18" align="center" /> <strong>C++</strong></a></li>
-  <li><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="18" height="18" align="center" /> <strong>Linux</strong></a></li>
-  <li><a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="18" height="18" align="center" /> <strong>MariaDB</strong></a></li>
-  <li><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="18" height="18" align="center" /> <strong>Git</strong></a></li>
-</ul>
-
-<h3>Embedded & Machine Learning</h3>
-
-<ul>
-  <li><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="18" height="18" align="center" /> <strong>Arduino</strong></a></li>
-  <li><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="18" height="18" align="center" /> <strong>PyTorch</strong></a></li>
-</ul>
-
-<h3>Design, 3D & Game Development</h3>
-
-<ul>
-  <li><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="18" height="18" align="center" /> <strong>Blender</strong></a></li>
-  <li><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="18" height="18" align="center" /> <strong>Unity</strong></a></li>
-  <li><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="18" height="18" align="center" /> <strong>Unreal Engine</strong></a></li>
-  <li><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="18" height="18" align="center" /> <strong>Adobe Illustrator</strong></a></li>
-  <li><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="18" height="18" align="center" /> <strong>Adobe Photoshop</strong></a></li>
-  <li><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="18" height="18" align="center" /> <strong>Sketch</strong></a></li>
-  <li><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><strong>Adobe XD</strong></a></li>
-</ul>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 Saptari Post</h3>
+      <p><b>Custom News Portal & Editorial CMS</b></p>
+      <p>A full-stack digital publishing platform with dedicated reader, editor, and super-admin workflows.</p>
+      <p>
+        <b>Key capabilities</b><br />
+        ✦ Role-based access and secure sessions<br />
+        ✦ Email OTP verification and reader workflows<br />
+        ✦ Publishing, scheduling, and comment moderation<br />
+        ✦ AI-assisted image ALT text and technical SEO<br />
+        ✦ Media optimization and ad management
+      </p>
+      <p><b>Stack:</b> PHP, MySQL, PDO, Vanilla JavaScript, LiteSpeed, Cloudflare</p>
+      <a href="https://saptaripost.com/"><b>🌐 Explore live website</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ ANX Fashion</h3>
+      <p><b>Luxury E-Commerce Platform</b></p>
+      <p>A modern commerce experience combining product discovery, inventory management, and responsive shopping interfaces.</p>
+      <p>
+        <b>Key capabilities</b><br />
+        ✦ Product catalogs, search, and advanced filtering<br />
+        ✦ Role-based access control<br />
+        ✦ Multi-gateway payment integration<br />
+        ✦ Real-time inventory management<br />
+        ✦ Reusable Blade components and reactive UI
+      </p>
+      <p><b>Stack:</b> Laravel, PHP, MySQL, Tailwind CSS, Alpine.js</p>
+      <a href="https://anxfashion.com/"><b>🌐 Explore live website</b></a>
+    </td>
+  </tr>
 </table>
+
+## 🏗️ How I Engineer Products
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🔐 Security by Design</h4>
+      Secure authentication, role-based permissions, CSRF protection, XSS prevention, SQL injection mitigation, and responsible session management.
+    </td>
+    <td valign="top" width="50%">
+      <h4>⚡ Performance & Reliability</h4>
+      Caching, optimized media delivery, responsive design, Core Web Vitals awareness, and reliable hosting and deployment practices.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>🔎 Search & Discoverability</h4>
+      Technical and on-page SEO, structured data, Google Search Console, Google Analytics, and search-friendly publishing workflows.
+    </td>
+    <td valign="top">
+      <h4>🧩 End-to-End Ownership</h4>
+      From database schema and API design to UI implementation, deployment, infrastructure configuration, monitoring, and maintenance.
+    </td>
+  </tr>
+</table>
+
+## 🏅 Certifications
+
+| Area | Credential |
+|:--|:--|
+| **JavaScript** | [HackerRank certificate](https://www.hackerrank.com/certificates/b3176f305f3f) |
+| **SQL** | [HackerRank certificate](https://www.hackerrank.com/certificates/a5f8f1af2f0a) |
+| **React** | [HackerRank certificate](https://www.hackerrank.com/certificates/a41ffc53f364) |
+| **Python** | [HackerRank certificate](https://www.hackerrank.com/certificates/daf9fd40b681) |
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/preamshah">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=preamshah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=3B82F6" alt="Pream Shah GitHub statistics" />
+  </a>
+  <a href="https://github.com/preamshah">
+    <img height="175" src="https://streak-stats.demolab.com?user=preamshah&hide_border=true&background=0D1117&ring=60A5FA&fire=3B82F6&currStreakLabel=93C5FD&sideLabels=C9D1D9&dates=94A3B8" alt="Pream Shah GitHub contribution streak" />
+  </a>
+  <br />
+  <a href="https://github.com/preamshah">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=preamshah&bg_color=0d1117&color=93c5fd&line=3b82f6&point=e5e7eb&area=true&hide_border=true" alt="Pream Shah GitHub contribution activity graph" />
+  </a>
+</div>
+
+<sub>Activity visuals are loaded from third-party services and may be temporarily unavailable.</sub>
+
+## 🤝 Let's Connect
+
+I am interested in **full-stack development, software engineering, thoughtful product design, and collaborating on practical technology solutions**. If you have a project, an engineering challenge, or an opportunity to discuss, feel free to reach out infopreamshah@gmail.com.
+
+<div align="center">
+  <a href="https://preamshah.com/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/preamshah/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:infopreamshah@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+
+  <br /><br />
+  <i>"Build with purpose. Engineer with precision. Keep improving."</i>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:173B75,100:2563EB&height=115&section=footer" width="100%" alt="Blue gradient footer" />
+</div>
