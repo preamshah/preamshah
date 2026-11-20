@@ -154,7 +154,7 @@ As the **Founder & Lead Developer of [Saptari Post](https://saptaripost.com/)**,
 
 ## 🤝 Let's Connect
 
-I am interested in **full-stack development, software engineering, thoughtful product design, and collaborating on practical technology solutions**. If you have a project, an engineering challenge, or an opportunity to discuss, feel free to reach out infopreamshah@gmail.com.
+I am interested in **full-stack development, software engineering, thoughtful product design, and collaborating on practical technology solutions**. If you have a project, an engineering challenge, or an opportunity to discuss, feel free to reach out.
 
 <div align="center">
   <a href="https://preamshah.com/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
